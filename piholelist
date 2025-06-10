@@ -1,6 +1,13 @@
 # LG SmartTV PiHole List
 # Created: 10/June/2025
 
+(^|\.)ibs\.lgappstv\.com
+(^|\.)lgsmartad\.com
+(^|\.)smartshare\.lgtvsdp\.com
+(^|\.)rdx2\.lgtvsdp\.com
+^[a-rt-z][a-z]{10,14}$
+(^|\.)lgtvcommon\.com
+
 # LG
 ad.lgappstv.com
 ibis.lgappstv.com
